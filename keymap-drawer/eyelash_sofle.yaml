@@ -12,7 +12,7 @@ layers:
   - {t: '8', s: '*'}
   - {t: '9', s: (}
   - {t: '0', s: )}
-  - INS
+  - {t: '$$mdi:backspace$$', type: backspace}
   - $$mdi:keyboard-tab$$
   - Q
   - W
@@ -61,7 +61,7 @@ layers:
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - $$mdi:keyboard-space$$
   - {t: '$$mdi:keyboard-space$$', h: '3'}
-  - {t: '$$mdi:backspace$$', type: backspace}
+  - INS
   - {t: HOME, h: layer1}
   - {t: END, h: '2'}
   layer1:
