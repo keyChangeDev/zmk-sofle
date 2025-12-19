@@ -110,7 +110,7 @@
 &kp TAB     &kp Q      &kp W         &kp E         &kp R   &kp T        &kp DOWN_ARROW   &kp Y      &kp U      &kp UP     &kp O            &kp P       &kp RBKT
 &kp CAPS    &kp A      &kp S         &kp D         &kp F   &kp G        &kp LEFT_ARROW   &kp H      &kp LEFT   &kp DOWN   &kp RIGHT        &kp N6      &kp N0
 &kp LSHFT   &kp Z      &kp X         &kp C         &kp V   &kp B        &kp RIGHT_ARROW  &kp N      &kp M      &kp I      &kp FSLH         &kp GRAVE   &kp ENTER
-&kp C_MUTE  &kp LCTRL  &N9   &kp LEFT_ALT    &kp SPACE  &kp LEFT_GUI  &kp ENTER        &kp INS    &kp RCTRL  &kp J   &kp K         &to 0
+&kp C_MUTE  &kp LCTRL  &kp N9   &kp LEFT_ALT    &kp SPACE  &kp LEFT_GUI &kp ENTER        &kp INS    &kp RCTRL  &kp J   &kp K         &to 0
             >;
          display-name = "layer4";
             sensor-bindings = <&scroll_encoder>;
