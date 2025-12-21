@@ -268,44 +268,44 @@ layers:
   - {t: '4', s: $}
   - {t: '5', s: '%'}
   - $$mdi:arrow-up-bold$$
-  - {t: '6', s: ^}
+  - {t: '=', s: +}
   - {t: '7', s: '&'}
   - F10
   - F11
   - F12
   - {t: '$$mdi:backspace$$', type: backspace}
   - $$mdi:keyboard-tab$$
-  - Y
   - Q
   - W
   - E
   - R
-  - $$mdi:arrow-down-bold$$
   - T
+  - $$mdi:arrow-down-bold$$
+  - Y
   - U
   - $$mdi:arrow-up-bold$$
   - O
   - P
   - {t: ']', s: '}'}
   - $$mdi:apple-keyboard-caps$$
-  - H
   - A
   - S
   - D
   - F
-  - $$mdi:arrow-left-bold$$
   - G
+  - $$mdi:arrow-left-bold$$
+  - H
   - $$mdi:arrow-left-bold$$
   - $$mdi:arrow-down-bold$$
   - $$mdi:arrow-right-bold$$
-  - $$mdi:arrow-up-bold$$
+  - {t: '6', s: ^}
   - {t: '0', s: )}
   - $$mdi:apple-keyboard-shift$$
-  - B
   - Z
   - X
   - C
   - V
+  - B
   - $$mdi:arrow-right-bold$$
   - N
   - M
@@ -315,7 +315,7 @@ layers:
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - $$mdi:volume-off$$
   - J
-  - {t: '9', s: (}
+  - {t: '8', s: '*'}
   - $$mdi:apple-keyboard-option$$
   - $$mdi:keyboard-space$$
   - $$mdi:apple-keyboard-control$$
