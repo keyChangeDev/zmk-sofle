@@ -301,11 +301,11 @@ layers:
   - {t: '6', s: ^}
   - {t: '0', s: )}
   - $$mdi:apple-keyboard-shift$$
+  - B
   - Z
   - X
   - C
   - V
-  - B
   - $$mdi:arrow-right-bold$$
   - N
   - M
